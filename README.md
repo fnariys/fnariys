@@ -1,6 +1,5 @@
-### Hi there 👋
-### Im Fnariys
-- 🌱 I’m currently learning basic web
+
+404
 
 <!--
 **fnariys/fnariys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
